@@ -37,7 +37,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`aemail`, `apassword`) VALUES
-('admin@edoc.com', '123');
+('admin@123.com', '123');
 
 -- --------------------------------------------------------
 
@@ -283,7 +283,7 @@ CREATE TABLE `webuser` (
 --
 
 INSERT INTO `webuser` (`email`, `usertype`) VALUES
-('admin@edoc.com', 'a'),
+('admin@123.com', 'a'),
 ('howardholme@gmail.com', 'd'),
 ('gayan@gmail.com', 'p'),
 ('emhashenudara@gmail.com', 'p'),
