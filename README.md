@@ -1,5 +1,5 @@
 # Pet-clinic
-host url - https://hi-pet.000webhostapp.com
+url - https://hi-pet.000webhostapp.com
 
 admin login credentials
 admin@123.com - 123
